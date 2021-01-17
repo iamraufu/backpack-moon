@@ -1,0 +1,22 @@
+.bag-header {
+    background-color: #FFFFF4 !important;
+    color: #3C3C3C !important;
+    height: 700px;
+}
+
+.logo {
+    width: 50%;
+}
+
+.banner-bag {
+    width: 100%;
+}
+
+.top-banner h1 {
+    color: #363958;
+}
+
+#moon,
+h5 {
+    color: #76C27E;
+}
